@@ -21,9 +21,6 @@ LOCAL_MODULE    := libvorbis
 LOCAL_C_INCLUDES := 	$(LOCAL_PATH)/../../libogg/include \
 							$(LOCAL_PATH)/../include
 
-$(warning Value of LOCAL_C_INCLUDES is '$(LOCAL_C_INCLUDES)') 
-$(warning Value of LOCAL_CFLAGS is '$(LOCAL_CFLAGS)') 
-
 LOCAL_SRC_FILES := \
 	wav_ogg_file_codec_jni.c \
 	encode_file.c \
