@@ -164,6 +164,7 @@
     <ClCompile Include="..\..\..\lib\bitrate.c" />
     <ClCompile Include="..\..\..\lib\block.c" />
     <ClCompile Include="..\..\..\lib\codebook.c" />
+    <ClCompile Include="..\..\..\lib\encode_file.c" />
     <ClCompile Include="..\..\..\lib\envelope.c" />
     <ClCompile Include="..\..\..\lib\floor0.c" />
     <ClCompile Include="..\..\..\lib\floor1.c" />
@@ -171,6 +172,7 @@
     <ClCompile Include="..\..\..\lib\lookup.c" />
     <ClCompile Include="..\..\..\lib\lpc.c" />
     <ClCompile Include="..\..\..\lib\lsp.c" />
+    <ClCompile Include="..\..\..\lib\main.c" />
     <ClCompile Include="..\..\..\lib\mapping0.c" />
     <ClCompile Include="..\..\..\lib\mdct.c" />
     <ClCompile Include="..\..\..\lib\psy.c" />

@@ -11,7 +11,7 @@
  ********************************************************************
 
  function: simple programmatic interface for encoder mode setup
- last mod: $Id$
+ last mod: $Id: vorbisenc.c 17028 2010-03-25 05:22:15Z xiphmont $
 
  ********************************************************************/
 
